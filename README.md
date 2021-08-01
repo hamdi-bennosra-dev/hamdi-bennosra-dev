@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamdi-bennosra-deva Tunisian Full Stack Developer . 
+- 👋 Hi, I’m @hamdi-bennosra-dev , a Tunisian Full Stack Developer . 
 - 🧑🏻‍💻 My Tech Stack: Java, Spring Boot, Node.js, Angular, Reactjs, etc..
 - 👀 I’m interested in Web Dev and Pixel Art. I love arcade games and I dream of making my own 2D Game one day. 
 - 🌱 I'm planning on learning AI and 2D game development. 
