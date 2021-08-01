@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hamdi-bennosra-dev
-- 👀 I’m interested in Coding and retro gaming. I love arcade games and I dream of developing a 2D game one day. 
-- 🌱 I’m currently learning Web Developement but I'm planning on learning AI and 2D game development. 
-- 💞️ I’m looking to collaborate on Web apps, Mobile Apps and in the future a 2D game. 
-- 📫 How to reach me: LinkedIn <a href="https://www.linkedin.com/in/hamdi-ben-nosra-2816301b6/">Hamdi Ben Nosra</a>
+- 👋 Hi, I’m @hamdi-bennosra-deva Tunisian Full Stack Developer . 
+- 🧑🏻‍💻 My Tech Stack: Java, Spring Boot, Node.js, Angular, Reactjs, etc..
+- 👀 I’m interested in Web Dev and Pixel Art. I love arcade games and I dream of making my own 2D Game one day. 
+- 🌱 I'm planning on learning AI and 2D game development. 
+- 💞️ I’m looking to collaborate on Web apps, Mobile Apps and making a 2D game. 
+- 📫 Socials: <a href="https://linktr.ee/Hamdi.bennosra.dev">Hamdi Ben Nosra</a>
 
 <!---
 hamdi-bennosra-dev/hamdi-bennosra-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
